@@ -32,7 +32,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x2540be400'
+    resolution: '0x2540be400' # 1e10
     risk_factor: '128849019' # 0.03 * 2**32, rounded up
   '0x4554482d3900000000000000000000': # ETH-9
     oracle_price_quorum: '0x1'
@@ -58,7 +58,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x3b9aca00'
+    resolution: '0x3b9aca00' # 1e9
     risk_factor: '128849019' # 0.03 * 2**32, rounded up
   '0x4c494e4b2d37000000000000000000': # LINK-7
     oracle_price_quorum: '0x1'
@@ -84,7 +84,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x989680'
+    resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x414156452d38000000000000000000': # AAVE-8
     oracle_price_quorum: '0x1'
@@ -110,7 +110,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x5f5e100'
+    resolution: '0x5f5e100' # 1e8
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x554e492d3700000000000000000000': # UNI-7
     oracle_price_quorum: '0x1'
@@ -136,7 +136,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x989680'
+    resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x53555348492d370000000000000000': # SUSHI-7
     oracle_price_quorum: '0x1'
