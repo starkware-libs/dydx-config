@@ -9,7 +9,7 @@ orders_tree_height: 64
 positions_tree_height: 64
 synthetic_assets_info:
   '0x4254432d3130000000000000000000': # BTC-10
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x425443555344000000000000000000004d616b6572' # BTCUSD Maker
     - '0x4254435553440000000000000000000054656c6c6f' # BTCUSD Tello
@@ -35,7 +35,7 @@ synthetic_assets_info:
     resolution: '0x2540be400' # 1e10
     risk_factor: '128849019' # 0.03 * 2**32, rounded up
   '0x4554482d3900000000000000000000': # ETH-9
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x455448555344000000000000000000004d616b6572' # ETHUSD Maker
     - '0x4554485553440000000000000000000054656c6c6f' # ETHUSD Tello
@@ -61,7 +61,7 @@ synthetic_assets_info:
     resolution: '0x3b9aca00' # 1e9
     risk_factor: '128849019' # 0.03 * 2**32, rounded up
   '0x4c494e4b2d37000000000000000000': # LINK-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x4c494e4b5553440000000000000000004d616b6572' # LINKUSD Maker
     - '0x4c494e4b55534400000000000000000054656c6c6f' # LINKUSD Tello
@@ -87,7 +87,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x414156452d38000000000000000000': # AAVE-8
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x414156455553440000000000000000004d616b6572' # AAVEUSD Maker
     - '0x4141564555534400000000000000000054656c6c6f' # AAVEUSD Tello
@@ -113,7 +113,7 @@ synthetic_assets_info:
     resolution: '0x5f5e100' # 1e8
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x554e492d3700000000000000000000': # UNI-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x554e49555344000000000000000000004d616b6572' # UNIUSD Maker
     - '0x554e495553440000000000000000000054656c6c6f' # UNIUSD Tello
@@ -139,7 +139,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x53555348492d370000000000000000': # SUSHI-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x535553484955534400000000000000004d616b6572' # SUSHIUSD Maker
     - '0x5355534849555344000000000000000054656c6c6f' # SUSHIUSD Tello
@@ -165,7 +165,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x534f4c2d3700000000000000000000': # SOL-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x534f4c555344000000000000000000004d616b6572' # SOLUSD Maker
     - '0x534f4c5553440000000000000000000054656c6c6f' # SOLUSD Tello
@@ -191,7 +191,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x5946492d3130000000000000000000': # YFI-10
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x594649555344000000000000000000004d616b6572' # YFIUSD Maker
     - '0x5946495553440000000000000000000054656c6c6f' # YFIUSD Tello
@@ -217,7 +217,7 @@ synthetic_assets_info:
     resolution: '0x2540be400' # 1e10
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x31494e43482d370000000000000000': # 1INCH-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x31494e434855534400000000000000004d616b6572' # 1INCHUSD Maker
     - '0x31494e4348555344000000000000000054656c6c6f' # 1INCHUSD Tello
@@ -243,7 +243,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x415641582d37000000000000000000': # AVAX-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x415641585553440000000000000000004d616b6572' # AVAXUSD Maker
     - '0x4156415855534400000000000000000054656c6c6f' # AVAXUSD Tello
@@ -269,7 +269,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x534e582d3700000000000000000000': # SNX-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x534e58555344000000000000000000004d616b6572' # SNXUSD Maker
     - '0x534e585553440000000000000000000054656c6c6f' # SNXUSD Tello
@@ -295,7 +295,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x4352562d3600000000000000000000': # CRV-6
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x435256555344000000000000000000004d616b6572' # CRVUSD Maker
     - '0x4352565553440000000000000000000054656c6c6f' # CRVUSD Tello
@@ -321,7 +321,7 @@ synthetic_assets_info:
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x554d412d3700000000000000000000': # UMA-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x554d41555344000000000000000000004d616b6572' # UMAUSD Maker
     - '0x554d415553440000000000000000000054656c6c6f' # UMAUSD Tello
@@ -347,7 +347,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x444f542d3700000000000000000000': # DOT-7
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x444f54555344000000000000000000004d616b6572' # DOTUSD Maker
     - '0x444f545553440000000000000000000054656c6c6f' # DOTUSD Tello
@@ -373,7 +373,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x444f47452d35000000000000000000': # DOGE-5
-    oracle_price_quorum: '0x1'
+    oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x444f47455553440000000000000000004d616b6572' # DOGEUSD Maker
     - '0x444f474555534400000000000000000054656c6c6f' # DOGEUSD Tello
