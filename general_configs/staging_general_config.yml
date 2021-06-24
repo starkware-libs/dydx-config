@@ -33,7 +33,7 @@ synthetic_assets_info:
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
     resolution: '0x2540be400' # 1e10
-    risk_factor: '429496730' # 0.1 * 2**32, rounded up
+    risk_factor: '128849019' # 0.03 * 2**32, rounded up
   '0x4554482d3900000000000000000000': # ETH-9
     oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
