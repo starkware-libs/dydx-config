@@ -1802,7 +1802,7 @@ synthetic_assets_info:
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
-  '0x534849422d31000000000000000000': # SHIB-0
+  '0x534849422d30000000000000000000': # SHIB-0
     oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x534849425553440000000000000000004d616b6572' # SHIBUSD Maker
