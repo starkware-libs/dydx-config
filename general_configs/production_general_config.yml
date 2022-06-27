@@ -1802,7 +1802,7 @@ synthetic_assets_info:
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
-  '0x534849422d30000000000000000000': # SHIB-0
+  '0x534849422d31000000000000000000': # SHIB-1
     oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x534849425553440000000000000000004d616b6572' # SHIBUSD Maker
@@ -1826,7 +1826,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x1' # 1e0
+    resolution: '0xa' # 1e1
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x54484554412d360000000000000000': # THETA-6
     oracle_price_quorum: '0x5'
@@ -1854,7 +1854,7 @@ synthetic_assets_info:
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
-  '0x5253522d3300000000000000000000': # RSR-3
+  '0x5253522d3400000000000000000000': # RSR-4
     oracle_price_quorum: '0x5'
     oracle_price_signed_asset_ids:
     - '0x525352555344000000000000000000004d616b6572' # RSRUSD Maker
@@ -1878,7 +1878,7 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x3e8' # 1e3
+    resolution: '0x2710' # 1e4
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x5a494c2d3400000000000000000000': # ZIL-4
     oracle_price_quorum: '0x5'
