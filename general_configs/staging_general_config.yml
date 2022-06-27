@@ -1592,7 +1592,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x4150452d3700000000000000000000': # APE-7
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x415045555344000000000000000000004d616b6572' # APEUSD Maker
     - '0x4150455553440000000000000000000054656c6c6f' # APEUSD Tello
@@ -1618,7 +1618,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x474d542d3600000000000000000000': # GMT-6
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x474d54555344000000000000000000004d616b6572' # GMTUSD Maker
     - '0x474d545553440000000000000000000054656c6c6f' # GMTUSD Tello
@@ -1644,7 +1644,7 @@ synthetic_assets_info:
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x46544d2d3600000000000000000000': # FTM-6
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x46544d555344000000000000000000004d616b6572' # FTMUSD Maker
     - '0x46544d5553440000000000000000000054656c6c6f' # FTMUSD Tello
@@ -1670,7 +1670,7 @@ synthetic_assets_info:
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x4158532d3700000000000000000000': # AXS-7
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x415853555344000000000000000000004d616b6572' # AXSUSD Maker
     - '0x4158535553440000000000000000000054656c6c6f' # AXSUSD Tello
@@ -1696,7 +1696,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x4f502d360000000000000000000000': # OP-6
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x4f5055534400000000000000000000004d616b6572' # OPUSD Maker
     - '0x4f50555344000000000000000000000054656c6c6f' # OPUSD Tello
@@ -1722,7 +1722,7 @@ synthetic_assets_info:
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x57415645532d370000000000000000': # WAVES-7
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x574156455355534400000000000000004d616b6572' # WAVESUSD Maker
     - '0x5741564553555344000000000000000054656c6c6f' # WAVESUSD Tello
@@ -1748,7 +1748,7 @@ synthetic_assets_info:
     resolution: '0x989680' # 1e7
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x47414c412d35000000000000000000': # GALA-5
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x47414c415553440000000000000000004d616b6572' # GALAUSD Maker
     - '0x47414c4155534400000000000000000054656c6c6f' # GALAUSD Tello
@@ -1774,7 +1774,7 @@ synthetic_assets_info:
     resolution: '0x186a0' # 1e5
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x53414e442d36000000000000000000': # SAND-6
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x53414e445553440000000000000000004d616b6572' # SANDUSD Maker
     - '0x53414e4455534400000000000000000054656c6c6f' # SANDUSD Tello
@@ -1800,7 +1800,7 @@ synthetic_assets_info:
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x4d414e412d36000000000000000000': # MANA-6
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x4d414e415553440000000000000000004d616b6572' # MANAUSD Maker
     - '0x4d414e4155534400000000000000000054656c6c6f' # MANAUSD Tello
@@ -1825,8 +1825,8 @@ synthetic_assets_info:
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
-  '0x534849422d30000000000000000000': # SHIB-0
-    oracle_price_quorum: '0x5'
+  '0x534849422d31000000000000000000': # SHIB-1
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x534849425553440000000000000000004d616b6572' # SHIBUSD Maker
     - '0x5348494255534400000000000000000054656c6c6f' # SHIBUSD Tello
@@ -1849,10 +1849,10 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x1' # 1e0
+    resolution: '0xa' # 1e1
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x54484554412d360000000000000000': # THETA-6
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x544845544155534400000000000000004d616b6572' # THETAUSD Maker
     - '0x5448455441555344000000000000000054656c6c6f' # THETAUSD Tello
@@ -1877,8 +1877,8 @@ synthetic_assets_info:
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
     resolution: '0xf4240' # 1e6
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
-  '0x5253522d3300000000000000000000': # RSR-3
-    oracle_price_quorum: '0x5'
+  '0x5253522d3400000000000000000000': # RSR-4
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x525352555344000000000000000000004d616b6572' # RSRUSD Maker
     - '0x5253525553440000000000000000000054656c6c6f' # RSRUSD Tello
@@ -1901,10 +1901,10 @@ synthetic_assets_info:
     - '0x136011660cc171a20eafcfd4af9478f4633358f885ebf7b9e86a0edbe7ab352'
     - '0x30aa5ca15a876190b69fab10f23cea148d15cb66ed1e5c66262c3a1e5f2d4a9'
     - '0x27dae6666de57098117f0f1e20e747088c6702f1636e53e7ec91096cc5a3036'
-    resolution: '0x3e8' # 1e3
+    resolution: '0x2710' # 1e4
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x5a494c2d3400000000000000000000': # ZIL-4
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x5a494c555344000000000000000000004d616b6572' # ZILUSD Maker
     - '0x5a494c5553440000000000000000000054656c6c6f' # ZILUSD Tello
@@ -1930,7 +1930,7 @@ synthetic_assets_info:
     resolution: '0x2710' # 1e4
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x5645542d3400000000000000000000': # VET-4
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x564554555344000000000000000000004d616b6572' # VETUSD Maker
     - '0x5645545553440000000000000000000054656c6c6f' # VETUSD Tello
@@ -1956,7 +1956,7 @@ synthetic_assets_info:
     resolution: '0x2710' # 1e4
     risk_factor: '214748365' # 0.05 * 2**32, rounded up
   '0x454e532d3700000000000000000000': # ENS-7
-    oracle_price_quorum: '0x5'
+    oracle_price_quorum: '0x7'
     oracle_price_signed_asset_ids:
     - '0x454e53555344000000000000000000004d616b6572' # ENSUSD Maker
     - '0x454e535553440000000000000000000054656c6c6f' # ENSUSD Tello
