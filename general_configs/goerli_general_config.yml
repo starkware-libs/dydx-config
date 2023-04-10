@@ -4,7 +4,7 @@ collateral_asset_info:
 fee_position_info:
   position_id: '0'
   public_key: '0x6479dd260a7d4eb269bd2a4dfc327c3cc099d10746cf67e637b2c135a092afb'
-max_funding_rate: '1120'
+max_funding_rate: '5970'
 orders_tree_height: 64
 positions_tree_height: 64
 synthetic_assets_info:
